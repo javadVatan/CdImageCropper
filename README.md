@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
  ```
  
- #### Set your link with method `setImageLink`
+ #### Set your link with `setImageLink` method
  ```
  iwlCover.setImageLink("your_link")
  ```
